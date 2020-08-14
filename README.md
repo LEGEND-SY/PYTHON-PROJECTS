@@ -1,5 +1,7 @@
 # PYTHON-PROJECTS
+![Screenshot](https://i.paste.pics/9TQ37.png)
 LEGEND Assistant for beginner to know how Assistants working.
+
 It's a simple project and COMPLETELY to know how Google Assistant and other Assistants working
 in Legend assistant you can learn :
 - def function (there is a lot of this)
