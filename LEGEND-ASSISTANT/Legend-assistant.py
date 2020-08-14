@@ -53,7 +53,7 @@ def self(x) :
 		for a , b in y.items() :
 				if x.lower().strip() != a.lower().strip() :
 					point()
-					print("Sorry I Don't understand!")
+					print(black + "Sorry I Don't understand!" + at)
 					print(v)
 					time.sleep(0.3)
 					AssistantServer(self)
@@ -253,14 +253,11 @@ def AssistantServer(self) :
 	#print(v)
 	z = input (red + 'How can I help for you?' + at +' ' + black +  '(•‿•)'  + at  +':'  + black)
 	
-
-	
-	
 	if z == 'q' :
 		#print(v)
 		Quit(z)
 		
-	elif z == 'Ad' :
+	elif z == 'LEGEND' :
 		#print(v)
 		self2(z)
 		
@@ -274,6 +271,10 @@ def AssistantServer(self) :
 	elif 'search' in z.lower() :
 	    def listToString(s):
 	           s.remove('search')
+	           try:
+	               s.remove('about')
+	           except :
+	               x = 1
 	           str1 = ""
 	           for ele in s:  
 	               str1 +=' ' + ele
