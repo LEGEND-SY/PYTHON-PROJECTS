@@ -1,8 +1,8 @@
 # PYTHON-PROJECTS
 ![alt text](https://i.paste.pics/9TQ37.png)
- LEGEND ASSISTANT
+/**LEGEND ASSISTANT**/
  
- Legend Assistant from Python projects P
+○ - Legend Assistant by Python projects - ○
  
  
  
@@ -40,5 +40,6 @@ so what can this project do :
     - Question programmed to answer it
     - Weather (soon...)
     - More...
+    
 I am soo happy to publish my first project on GITHUB .
 I hope you benefit from this project
