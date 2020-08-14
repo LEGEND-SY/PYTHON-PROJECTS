@@ -1,4 +1,3 @@
-# PYTHON-PROJECTS
 ![alt text](https://i.paste.pics/9TQ37.png)
 /**LEGEND ASSISTANT**/
  
