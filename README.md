@@ -8,6 +8,7 @@ in Legend assistant you can learn :
 - how to create a file in txt to get your code better
 - how to change a file in txt with your code and delete it
 - for/in function
+- Hashtag function
 - if/elif/else function
 - with/as function
 - while/break function
