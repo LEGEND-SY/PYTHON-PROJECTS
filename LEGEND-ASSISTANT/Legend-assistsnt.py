@@ -1,4 +1,4 @@
-i#Hello and welcome to LEGEND ASSISTANT
+#Hello and welcome to LEGEND ASSISTANT
 #first of all its alpha , okay?
 #my github page : https://github.com/LEGEND-SY
 #Please download those packages from pip
