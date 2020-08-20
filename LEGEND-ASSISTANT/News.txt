@@ -1,1 +1,5 @@
-
+NEWS:
+[ The LEGEND ASSISTANT has a new update 0.0.2 Alpha ]
+[ Please update the assistant before 30 / 8 / 2020 ]
+[ The assistant will stop after this date ]
+[ Download file here : github.com/LEGEND-SY ]
